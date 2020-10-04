@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/schedule"
+        android:icon="@drawable/ic_schedule"
+        android:title="SCHEDULE"
+        android:color="@color/colorAccent" />
+    <item
+        android:id="@+id/raffle"
+        android:icon="@drawable/ic_raffle"
+        android:title="RAFFLE"/>
+
+    <item
+        android:id="@+id/voting"
+        android:title="VOTING"
+        android:icon="@drawable/ic_voting"/>
+
+    <item
+        android:id="@+id/live_stream"
+        android:icon="@drawable/ic_live_stream"
+        android:title="LIVE STREAM" />
+</menu>
